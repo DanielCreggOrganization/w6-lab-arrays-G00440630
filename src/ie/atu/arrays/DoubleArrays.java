@@ -1,3 +1,4 @@
+// ...existing code...
 package ie.atu.arrays;
 
 public class DoubleArrays {
@@ -18,6 +19,9 @@ public class DoubleArrays {
             {7.7, 8.8, 9.9},
             {10.1, 11.11, 12.12}    
         };
+
+        // Inline initialization of a 1D double array
+        double[] array5 = {1.5, 2.5, 3.5, 4.5};
 
         // Displaying elements of array3
         for (double num : array3[0]) {
