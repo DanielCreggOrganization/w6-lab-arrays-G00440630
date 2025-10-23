@@ -24,7 +24,7 @@ public class DoubleArrays {
         double[] array5 = {1.5, 2.5, 3.5, 4.5};
 
         // Displaying elements of array3
-        for (double num : array3[0]) {
+        for (double num : array3[1]) {
             System.out.print(num + " ");
         }
     }
